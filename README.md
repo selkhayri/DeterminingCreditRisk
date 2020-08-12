@@ -1,1 +1,1 @@
-# DeterminingCreditRisk
+# Determining Credit Risk
