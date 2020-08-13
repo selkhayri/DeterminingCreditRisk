@@ -12,7 +12,7 @@
 
 . confusion matrix
 
-<pre style="align:center">
+<pre style="text-align:center">
 --         --
 |13029  4075|
 |   29    72|
@@ -33,7 +33,7 @@
 
 . confusion matrix
 
-<pre>
+<pre style="text-align:center">
 --         --
 |13066  4038|
 |   29    72|
@@ -55,7 +55,7 @@
 
 . confusion matrix
 
-<pre>
+<pre style="text-align:center">
 --         --
 |11335  5769|
 |   22    79|
@@ -76,7 +76,7 @@
 
 . confusion matrix
 
-<pre>
+<pre style="text-align:center">
 --         --
 |12621  4483|
 |   28    73|
@@ -99,7 +99,7 @@
 
 . confusion matrix
 
-<pre>
+<pre style="text-align:center">
 --         --
 |15134  1985|
 |   35    51|
@@ -120,7 +120,7 @@
 
 . confusion matrix
 
-<pre>
+<pre style="text-align:center">
 --         --
 |16211  908|
 |   11    75|
