@@ -12,7 +12,7 @@
 
 . confusion matrix
 
-<pre>
+<pre style="align:center">
 --         --
 |13029  4075|
 |   29    72|
