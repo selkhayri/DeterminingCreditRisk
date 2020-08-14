@@ -1,5 +1,7 @@
 # Determining Credit Risk
 
+NOTE: In the following tables, **0 represent low credit risk** and **1 represents high credit risk**.
+
 ## Purpose
 The aim of this project is to determine which classification technique produces the best results when applied to the task of determining credit riskiness. 
 
